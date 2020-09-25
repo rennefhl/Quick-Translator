@@ -8,3 +8,9 @@ $ pip install -r requirements.txt
 使用的是腾讯翻译接口，代码在此不提供接口，需要自己申请：https://cloud.tencent.com/
 
 申请完后将得到的SecretId以及SecretKey填入quick translator.py代码中即可使用
+
+
+================================= 2020/9/25更新
+增加了有道翻译/金山翻译/词都网查词
+
+源代码中腾讯翻译接口ID以及KEY仍需自己申请
